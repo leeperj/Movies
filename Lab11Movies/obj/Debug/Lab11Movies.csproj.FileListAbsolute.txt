@@ -1,0 +1,7 @@
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\bin\Debug\Lab11Movies.exe.config
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\bin\Debug\Lab11Movies.exe
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\bin\Debug\Lab11Movies.pdb
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\obj\Debug\Lab11Movies.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\obj\Debug\Lab11Movies.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\obj\Debug\Lab11Movies.exe
+C:\Users\josep\source\repos\Lab11Movies\Lab11Movies\obj\Debug\Lab11Movies.pdb
